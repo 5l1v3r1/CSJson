@@ -28,7 +28,7 @@ namespace CSJson
 		}
 	}
 }
-namespace CSJson.ColorConsoleMethods //ColorConsoleMethods by me
+namespace CSJson.ColorConsoleMethods //ColorConsoleMethods by me yay
 {
 	class ColorConsoleMethods
 	{
